@@ -1,2 +1,10 @@
 # IoT
-Repo donde iré subiendo mis miniproyectos del Internet de las Cosas.
+
+In this repo I will upload my miniprojects concerning Internet of Things.
+
+![IoT hardware](iot.jpg)
+
+Use the code found here to your own.
+
+
+Enjoy!! ;)
